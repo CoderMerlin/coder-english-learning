@@ -95,157 +95,157 @@
 
  
 
-B
+## B
 
  
 
-background 背景、后台(进程)
+- background 背景、后台(进程)
 
-backup 备份
+- backup 备份
 
-backup device备份设备
+- backup device备份设备
 
-backup file 备份文件
+- backup file 备份文件
 
-backward compatible 向后兼容、向下兼容
+- backward compatible 向后兼容、向下兼容
 
-base class 基类
+- base class 基类
 
-base type 基类型
+- base type 基类型
 
-batch 批处理
+- batch 批处理
 
-BCL (base class library)基类库
+- BCL (base class library)基类库
 
-Bin Packing 装箱问题
+- Bin Packing 装箱问题
 
-binary 二进制
+- binary 二进制
 
-binding 绑定
+- binding 绑定
 
-bit 位
+- bit 位
 
-bitmap 位图
+- bitmap 位图
 
-block 块、区块、语句块
+- block 块、区块、语句块
 
-boolean 布林值(真假值，true或false)
+- boolean 布林值(真假值，true或false)
 
-border 边框
+- border 边框
 
-bounds checking 边界检查
+- bounds checking 边界检查
 
-boxing 装箱、装箱转换
+- boxing 装箱、装箱转换
 
-brace (curly brace) 大括号、花括号
+- brace (curly brace) 大括号、花括号
 
-bracket (square brakcet) 中括号、方括号
+- bracket (square brakcet) 中括号、方括号
 
-breakpoint 断点
+- breakpoint 断点
 
-browser applications 浏览器应用(程序)
+- browser applications 浏览器应用(程序)
 
-browser-accessible application 可经由浏览器访问的应用程序
+- browser-accessible application 可经由浏览器访问的应用程序
 
-bug 缺陷错误
+- bug 缺陷错误
 
-build 编连(专指编译和连接)
+- build 编连(专指编译和连接)
 
-built-in 内建、内置
+- built-in 内建、内置
 
-bus 总线
+- bus 总线
 
-business 业务、商务(看场合)
+- business 业务、商务(看场合)
 
-business Logic 业务逻辑
+- business Logic 业务逻辑
 
-business rules 业务规则
+- business rules 业务规则
 
-buttons 按钮
+- buttons 按钮
 
-by/through 通过
+- by/through 通过
 
-byte 位元组(由8 bits组成)
-
- 
-
-C
+- byte 位元组(由8 bits组成)
 
  
 
-cache 高速缓存
+## C
 
-calendar 日历
+ 
 
-Calendrical Calculations 日期
+- cache 高速缓存
 
-call 调用
+- calendar 日历
 
-call operator 调用操作符
+- Calendrical Calculations 日期
 
-callback 回调
+- call 调用
 
-candidate key 候选键 (for database)
+- call operator 调用操作符
 
-cascading delete 级联删除 (for database)
+- callback 回调
 
-cascading update 级联更新 (for database)
+- candidate key 候选键 (for database)
 
-casting 转型、造型转换
+- cascading delete 级联删除 (for database)
 
-catalog 目录
+- cascading update 级联更新 (for database)
 
-chain 链(function calls)
+- casting 转型、造型转换
 
-character 字符
+- catalog 目录
 
-character format 字符格式
+- chain 链(function calls)
 
-character set 字符集
+- character 字符
 
-check box 复选框
+- character format 字符格式
 
-check button 复选按钮
+- character set 字符集
 
-CHECK constraints CHECK约束 (for database)
+- check box 复选框
 
-checkpoint 检查点 (for database)
+- check button 复选按钮
 
-child class 子类
+- CHECK constraints CHECK约束 (for database)
 
-CIL (common intermediate language)通用中间语言、通用中介语言
+- checkpoint 检查点 (for database)
 
-class 类
+- child class 子类
 
-class declaration 类声明
+- CIL (common intermediate language)通用中间语言、通用中介语言
 
-class definition 类定义
+- class 类
 
-class derivation list 类继承列表
+- class declaration 类声明
 
-class factory 类厂
+- class definition 类定义
 
-class hierarchy 类层次结构
+- class derivation list 类继承列表
 
-class library 类库
+- class factory 类厂
 
-class loader 类装载器
+- class hierarchy 类层次结构
 
-class template 类模板
+- class library 类库
 
-class template partial specializations 类模板部分特化
+- class loader 类装载器
 
-class template specializations 类模板特化
+- class template 类模板
 
-classification 分类
+- class template partial specializations 类模板部分特化
 
-clause 子句
+- class template specializations 类模板特化
 
-cleanup 清理、清除
+- classification 分类
 
-CLI (Common Language Infrastructure) 通用语言基础设施
+- clause 子句
 
-client 客户、客户端
+- cleanup 清理、清除
+
+- CLI (Common Language Infrastructure) 通用语言基础设施
+
+- client 客户、客户端
 
 client application 客户端应用程序
 
