@@ -22,6 +22,10 @@
   <a href="https://segmentfault.com/u/520coder"><img src="https://img.shields.io/badge/SegmentFault-informational" alt="segmentfault"></a>
 </p>
 
+- 微信公众号
+
+![微信公众号](https://upload-images.jianshu.io/upload_images/7326374-0c9d0fbd2c954edb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 # 项目中都会有哪些内容？
 
